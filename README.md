@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a web developer.<br>Currently working on 30days30projects.<br>Learning React and Js.<br>Know HTML,CSS,JS.<br><br>
+I’m a web developer.<br>Learning MERN.<br>Know HTML,CSS,JS.<br><br>
 
 
 ## 🌐 Socials:
