@@ -16,6 +16,5 @@ I’m a web developer.<br>Learning MERN.<br>Know HTML,CSS,JS.<br><br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Haiderghadi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
